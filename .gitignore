@@ -1,7 +1,10 @@
 # Adding config.py file
+vacayconfig.py
+wxconfig.py
 config.py
 
 # Adding additional files
+Google_Nearby_Search.ipynb
 API_practice.ipynb
 random_numbers.ipynb
 
